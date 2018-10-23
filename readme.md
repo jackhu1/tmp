@@ -1,5 +1,6 @@
-Jack's Readme.md (- copied and pasted from an example)
- # Project Title
+Jack's Readme.md (copied and pasted from an example) 
+
+# Project Title
 
 One Paragraph of project description goes here
 
